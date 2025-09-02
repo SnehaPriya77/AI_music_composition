@@ -319,3 +319,4 @@ if st.session_state.last_params:
         st.write("• " + s)
 else:
     st.info("Enter your mood and click “Analyze Mood”.")
+
